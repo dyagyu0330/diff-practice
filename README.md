@@ -1,3 +1,3 @@
 # diff-practice
 Git lecture diff practice
-henkou staging you first
+henkou FUkusuu file Third
