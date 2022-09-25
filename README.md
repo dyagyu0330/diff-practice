@@ -1,3 +1,3 @@
 # diff-practice
 Git lecture diff practice
-Main koushin conflict
+Rebase practice branch koushin second time
